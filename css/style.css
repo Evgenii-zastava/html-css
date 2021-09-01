@@ -143,7 +143,7 @@ body {
 
 .black-menu__nav__hyperlink:focus {
     padding: 8px 6px;
-    outline: 1px solid #C283F3;
+    background: #7943A4;
 }
 
 .header__black-menu__nav {
@@ -296,10 +296,6 @@ body {
     color: #7943A4;
 }
 
-.header__img__link__a:active{
-
-}
-
 .header__img__menu__search__btn {
     background-color: unset;
     vertical-align: middle;
@@ -314,7 +310,6 @@ body {
     width: 36px;
     height: 38px;
 }
-
 
 .header__img__menu__search__text {
     background-color: unset;
